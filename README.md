@@ -9,8 +9,9 @@ Welcome to the repository for my DIY guitar overdrive/distortion pedal! This pro
 
 - [Overview](#overview)
 - [Schematic](#schematic)
-- [Parts List](#parts-list)
 - [Photos and Videos](#photos-and-videos)
+- [Parts List](#parts-list)
+
 
 
 ---
@@ -26,7 +27,15 @@ This overdrive/distortion pedal is a simple yet effective design, built around t
 
 The schematic for this project is as follows:
 
-![Schematic](path-to-schematic-image.png)
+![Schematic](images/GuitarPedalSchematic.png)
+
+---
+
+
+## Photos and Videos
+
+![BuiltCircuit](images/ImplementedGuitarPedal.png)  
+![TestVideo](images/GuitarPedalTestVideo.mp4)  
 
 ---
 
@@ -68,15 +77,7 @@ Here are the components you'll need to build this pedal:
 
 
 
----
 
-## Photos and Videos
-
-- **Schematic**: [Link to schematic image/video]()  
-- **Build Process**: [Link to photos/video of the build]()  
-- **Demo Video**: [Link to video showcasing the working pedal]()  
-
----
 
 
 
