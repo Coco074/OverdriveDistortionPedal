@@ -36,6 +36,7 @@ The schematic for this project is as follows:
 
 ![BuiltCircuit](images/ImplementedGuitarPedal.png)  
 ![TestVideo](images/GuitarPedalTestVideo.mp4)  
+[Youtube Link](https://youtu.be/3M61E4r-9vg) 
 
 ---
 
